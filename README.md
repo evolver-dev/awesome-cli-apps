@@ -582,6 +582,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [dyff](https://github.com/homeport/dyff) - YAML diff tool.
 - [config-file-validator](https://github.com/Boeing/config-file-validator) - Validate configuration files.
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and toolbox (browser-based).
 
 ### Columns
 
